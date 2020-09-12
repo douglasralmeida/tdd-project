@@ -1,0 +1,5 @@
+Q: Escreva duas diferenças simples entre Testes Funcionais e Testes de Unidade:
+
+R: Testes funcionais são escritos com base apenas na interface do sistema dob testes. São técnicas de teste caixa-preta.
+
+Testes de unidade podem ser técnicas de teste caixa-branca ou caixa-preta. Podem ser escritos considerando as partes do código implementado.
