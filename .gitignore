@@ -139,8 +139,8 @@ cython_debug/
 
 #Projeto
 geckodriver.log
-virtualenv
+virtualenv/*
 *.pyc
-geckodriver.exe
+*.exe
 ativar.bat
 config.bat
